@@ -10,7 +10,7 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/garrotini/)
   Linux, Docker, Bash, C, C++, Python, Self-Hosting, Networking, Automation
 
 **Tools:**
-  Vim, Git, OpenCode, Ollama, MuseScore
+  Vim, Tmux, Git, OpenCode, Ollama, MuseScore
 
 **Learning:**
   Terraform, Kubernetes, AWS/Azure
