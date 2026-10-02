@@ -12,6 +12,7 @@ Core skills: Linux, Docker, SSH, VPN (Tailscale), UFW firewall, systemd, shell s
 Currently learning: Terraform, Kubernetes, Podman, cloud providers (evaluating AWS vs Azure)
 
 Open to DevOps, Cloud Engineering and SRE opportunities — let's connect: cgarrote92@gmail.com
+
 [website](https://cgarrote.cc) | [LinkedIn](https://www.linkedin.com/in/garrotini/) | [CV](https://raw.githubusercontent.com/garrotini/cv/main/CV_Carlos_Garrote.pdf)
 
 fun/random facts:
