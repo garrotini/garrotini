@@ -1,8 +1,6 @@
 
 ### Hey, I'm Carlos Garrote
 
-I break things on my own server so nothing breaks on a production one.
-
 Software engineer trained at 42 Lisboa (C, C++, Linux, networking), building my cloud/infra career hands-on. I run a Linux-first home lab: a multi-service Docker stack administered over SSH via Tailscale, managed with Portainer, backed up with rsync.
 
 Before tech: 15+ years as a professional musician — touring, recording, teaching, and performing nightly on cruise ships
